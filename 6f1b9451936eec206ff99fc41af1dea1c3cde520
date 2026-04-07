@@ -1,0 +1,53 @@
+clients/python/agentic-sandbox-client/sandbox-router/test_sandbox_router.py
+  9c2b2d6e41b9a970 160-163,165,167-171
+  087cbe9dae056674 159
+  fe048a7ddf394faa 164,172-173
+clients/python/agentic-sandbox-client/sandbox-router/sandbox_router.py
+  9c2b2d6e41b9a970 85-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "6f1b9451936eec206ff99fc41af1dea1c3cde520",
+  "prompts": {
+    "087cbe9dae056674": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d6602-9bdd-7980-88ad-6290e99cfcb6",
+        "model": "unknown"
+      },
+      "human_author": "xiaoj655",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 3,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "9c2b2d6e41b9a970": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d65fb-bfe7-7720-9cb6-4dcd02442783",
+        "model": "unknown"
+      },
+      "human_author": "xiaoj655",
+      "messages": [],
+      "total_additions": 19,
+      "total_deletions": 45,
+      "accepted_lines": 14,
+      "overriden_lines": 0
+    },
+    "fe048a7ddf394faa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d65ff-4669-7ea3-be5e-4df2e4ff031e",
+        "model": "unknown"
+      },
+      "human_author": "xiaoj655",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 4,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
